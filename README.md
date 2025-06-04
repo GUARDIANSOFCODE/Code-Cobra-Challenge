@@ -111,7 +111,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 📧 Contact
 
 * **Your Name** - [Your Email Address]
-* **Project Link:** [https://github.com/YourUsername/CodeCobraChallenge](https://github.com/GUARDIANSOFCODE/CodeCobraChallenge) (Remember to update this with your actual GitHub repo link!)
+* **Project Link:** [https://github.com/GUARDIANSOFCODE/CodeCobraChallenge](https://github.com/GUARDIANSOFCODE/CodeCobraChallenge) 
 
 ---
 
