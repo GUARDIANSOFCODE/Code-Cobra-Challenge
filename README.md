@@ -1,7 +1,6 @@
 # Code-Cobra-Challenge
 Dive into the Code Cobra Challenge, a classic Snake game reimagined with a modern twist and built entirely in Java Swing! This isn't just another game; it's your battlefield to conquer fundamental programming concepts, hone your problem-solving skills, and witness your code come alive. 
-# Code Cobra Challenge
-
+---
 ## 🐍 Slither, Grow, Conquer! 🍎
 
 Welcome to the **Code Cobra Challenge**, a captivating and addictive rendition of the classic Snake game, meticulously crafted in Java Swing. This project serves as an exhilarating dive into game development principles, object-oriented programming paradigms, and the power of Java's GUI capabilities.
@@ -112,7 +111,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 📧 Contact
 
 * **Your Name** - [Your Email Address]
-* **Project Link:** [https://github.com/YourUsername/CodeCobraChallenge](https://github.com/YourUsername/CodeCobraChallenge) (Remember to update this with your actual GitHub repo link!)
+* **Project Link:** [https://github.com/YourUsername/CodeCobraChallenge](https://github.com/GUARDIANSOFCODE/CodeCobraChallenge) (Remember to update this with your actual GitHub repo link!)
 
 ---
 
